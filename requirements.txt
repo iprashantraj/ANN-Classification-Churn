@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tensorflow
 pandas
 numpy
@@ -6,3 +7,12 @@ tensorboard
 matplotlib
 
 streamlit
+=======
+tensorflow==2.15.0
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+>>>>>>> a984e26 (Clean commit: add app.py, .gitignore, runtime.txt)

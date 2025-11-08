@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Cache / build / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
