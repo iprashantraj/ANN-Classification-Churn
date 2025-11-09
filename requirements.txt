@@ -15,4 +15,8 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit
+<<<<<<< HEAD
 >>>>>>> a984e26 (Clean commit: add app.py, .gitignore, runtime.txt)
+=======
+keras
+>>>>>>> 34fa493 (done)
